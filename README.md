@@ -3,4 +3,4 @@
 
 This project used Tableau to visualize Airbnb data for the Seattle area in 2016.
 
-[View My Project](https://prod-useast-a.online.tableau.com/t/dondadonda/views/AirBnBproject/Dashboard1)
+[View My Project](https://github.com/TKLUSSMANN/TableauAirbnb/blob/main/Dashboard%201.pdf)
